@@ -1,0 +1,1 @@
+this is me trying to learn embedded systems from scratch
